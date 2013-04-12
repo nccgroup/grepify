@@ -11,6 +11,9 @@ http://www.github.com/nccgroup/grepify
 
 Released under AGPL see LICENSE for more information
 
+[Download]<br>
+https://github.com/nccgroup/grepify/raw/master/Release/Release.zip
+
 [Keyboard Short Cuts]<br>
 Ctrl-F			Search in results<br>
 Alt-L			Load profile<br>
