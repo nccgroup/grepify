@@ -1,4 +1,6 @@
 ﻿
+
+// 1.1
 - Exclude filenames with test in their name / path
 - Case insentive searches
 - Comments in profiles
@@ -6,8 +8,11 @@
 - Checks a file is ASCII before scanning
 - Whole comment regex engine now to exclude comment lines
 
------
+// 1.0
 - Customizable editor
 - Restricting by extensions
 - Mulitple profiles
 - Comments in profiles (line begin with #).
+
+// Pre 1.0
+- It was born

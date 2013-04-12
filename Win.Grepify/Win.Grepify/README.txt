@@ -18,3 +18,5 @@ Alt-E			Export
 Alt-X			Exit
 
 [Results Right-Click Context Menu]
+Open in Editor		Open in the configured editor
+Show in Explorer	Open in Windows Explorer
