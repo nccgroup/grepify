@@ -1,0 +1,13 @@
+﻿
+- Exclude filenames with test in their name / path
+- Case insentive searches
+- Comments in profiles
+- Improvements in multithreading
+- Checks a file is ASCII before scanning
+- Whole comment regex engine now to exclude comment lines
+
+-----
+- Customizable editor
+- Restricting by extensions
+- Mulitple profiles
+- Comments in profiles (line begin with #).
