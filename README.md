@@ -11,7 +11,7 @@ http://www.github.com/nccgroup/grepify
 
 Released under AGPL see LICENSE for more information
 
-[Keyboard Short Cuts]
+[Keyboard Short Cuts]<br>
 Ctrl-F			Search in results<br>
 Alt-L			Load profile<br>
 Alt-S			Start / Stop Scan<br>
@@ -20,6 +20,6 @@ Alt-R			Reset Results<br>
 Alt-E			Export<br>
 Alt-X			Exit<br>
 
-[Results Right-Click Context Menu]
+[Results Right-Click Context Menu]<br>
 Open in Editor		Open in the configured editor<br>
 Show in Explorer	Open in Windows Explorer<br>
