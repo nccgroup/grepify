@@ -49,3 +49,12 @@ C:\Data\NCC\!Code\Git\Grepify\Win.Grepify\Win.Grepify\obj\x86\Release\GenerateRe
 C:\Data\NCC\!Code\Git.Public\grepify\Win.Grepify\Win.Grepify\bin\Release\Win.Grepify.exe.config
 C:\Data\NCC\!Code\Git.Public\grepify\Win.Grepify\Win.Grepify\obj\x86\Release\Win.Grepify.exe
 C:\Data\NCC\!Code\Git.Public\grepify\Win.Grepify\Win.Grepify\obj\x86\Release\Win.Grepify.pdb
+C:\Data\NCC\!Code\Git.Public\grepify\Win.Grepify\Win.Grepify\bin\Release\Win.Grepify.exe
+C:\Data\NCC\!Code\Git.Public\grepify\Win.Grepify\Win.Grepify\bin\Release\Win.Grepify.pdb
+C:\Data\NCC\!Code\Git.Public\grepify\Win.Grepify\Win.Grepify\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Data\NCC\!Code\Git.Public\grepify\Win.Grepify\Win.Grepify\obj\x86\Release\Win.Grepify.frmConfigure.resources
+C:\Data\NCC\!Code\Git.Public\grepify\Win.Grepify\Win.Grepify\obj\x86\Release\Win.Grepify.frmMain.resources
+C:\Data\NCC\!Code\Git.Public\grepify\Win.Grepify\Win.Grepify\obj\x86\Release\Win.Grepify.frmSearch.resources
+C:\Data\NCC\!Code\Git.Public\grepify\Win.Grepify\Win.Grepify\obj\x86\Release\Win.Grepify.Properties.Resources.resources
+C:\Data\NCC\!Code\Git.Public\grepify\Win.Grepify\Win.Grepify\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Data\NCC\!Code\Git.Public\grepify\Win.Grepify\Win.Grepify\obj\x86\Release\GenerateResource.write.1.tlog
