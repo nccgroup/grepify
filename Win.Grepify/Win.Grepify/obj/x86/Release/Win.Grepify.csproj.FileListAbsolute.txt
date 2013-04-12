@@ -46,3 +46,6 @@ C:\Data\NCC\!Code\Git\Grepify\Win.Grepify\Win.Grepify\obj\x86\Release\Win.Grepif
 C:\Data\NCC\!Code\Git\Grepify\Win.Grepify\Win.Grepify\obj\x86\Release\Win.Grepify.Properties.Resources.resources
 C:\Data\NCC\!Code\Git\Grepify\Win.Grepify\Win.Grepify\obj\x86\Release\GenerateResource.read.1.tlog
 C:\Data\NCC\!Code\Git\Grepify\Win.Grepify\Win.Grepify\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Data\NCC\!Code\Git.Public\grepify\Win.Grepify\Win.Grepify\bin\Release\Win.Grepify.exe.config
+C:\Data\NCC\!Code\Git.Public\grepify\Win.Grepify\Win.Grepify\obj\x86\Release\Win.Grepify.exe
+C:\Data\NCC\!Code\Git.Public\grepify\Win.Grepify\Win.Grepify\obj\x86\Release\Win.Grepify.pdb

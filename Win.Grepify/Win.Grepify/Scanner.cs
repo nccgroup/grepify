@@ -243,7 +243,7 @@ namespace Win.Grepify
                     {
                         if (Path.GetFileName(strFile).ToLower().Contains("test"))
                         {
-                            Console.WriteLine("Exlcuded " + strFile + " due to test in name");
+                            //Console.WriteLine("Exlcuded " + strFile + " due to test in name");
                             return;
                         }
                     }
@@ -252,7 +252,7 @@ namespace Win.Grepify
                     {
                         if (Path.GetDirectoryName(strFile).ToLower().Contains("test"))
                         {
-                            Console.WriteLine("Exlcuded " + strFile + " due to test in path");
+                            //Console.WriteLine("Exlcuded " + strFile + " due to test in path");
                             return;
                         }
                     }
@@ -302,12 +302,12 @@ namespace Win.Grepify
 
                 while (intQueue > 0)
                 {
-                    Console.WriteLine(intQueue.ToString());
+                    //Console.WriteLine(intQueue.ToString());
                     Thread.Sleep(1000);
                 }
 
                 
-                Console.WriteLine("Queue empty in main scan");
+                //Console.WriteLine("Queue empty in main scan");
 
                 frmMaster.ScanStopped();
             }
@@ -320,7 +320,7 @@ namespace Win.Grepify
                     Console.WriteLine(intQueue.ToString());
                     Thread.Sleep(1000);
                 }
-                Console.WriteLine("Queue empty in abort");
+                //Console.WriteLine("Queue empty in abort");
                 frmMaster.ScanStopped();
             }
         }
