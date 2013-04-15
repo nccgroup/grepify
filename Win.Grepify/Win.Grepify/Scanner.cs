@@ -173,7 +173,7 @@ namespace Win.Grepify
         /// 
         /// </summary>
         /// <param name="strFile"></param>
-        public FileToScan(string strFile, Scanner scanEngine)
+        public FileToScan(string strFile, Scanner scanEngine, string strTerm, Boolean bCase, Boolean bRegex)
         {
             this.strAPIs = scanEngine.strAPIs;
             this.strFile = strFile;
@@ -192,6 +192,7 @@ namespace Win.Grepify
             ScanFile(this.strFile);
         }
     }
+
     class Scanner
     {
         private int intMaxThreads = 10;
